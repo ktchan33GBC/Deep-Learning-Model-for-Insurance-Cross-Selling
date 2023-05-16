@@ -12,9 +12,7 @@ We used the recall score as our metrics , because we would like to minimize the 
 
 ## Dataset
 
-
-
-![Link to Dataset](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction)
+Link Dataset: https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction
 
 ## Screenshots
 
@@ -22,7 +20,7 @@ We used the recall score as our metrics , because we would like to minimize the 
 
 ![Banner](https://github.com/ktchan33GBC/Deep-Learning-Model-for-Insurance-Cross-Selling/blob/main/img/comprehensive-guide-to-cross-selling-policies.png)
 
-
+Confusion Matrix of the best Fine Tuned Model :
 ![Confusion Matrix of the best Fine Tuned Model ](https://github.com/ktchan33GBC/Deep-Learning-Model-for-Insurance-Cross-Selling/blob/main/img/Optimizer_adagrad_batch_size_1024_learning_rate_00005_recall_score_09837.png)
 
 ## Support
